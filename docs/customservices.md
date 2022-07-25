@@ -47,6 +47,7 @@ The following configuration is available for the PiHole service.
   logo: "assets/tools/sample.png"
   # subtitle: "Network-wide Ad Blocking" # optional, if no subtitle is defined, PiHole statistics will be shown
   url: "http://192.168.0.151/admin"
+  apikey: "<---insert-api-key-here--->" # optional, your API token from Settings > API / Web Interface > Show API Token if you have a password set.
   type: "PiHole"
 ```
 
